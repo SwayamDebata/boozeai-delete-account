@@ -1,0 +1,1 @@
+# boozeai-delete-account
